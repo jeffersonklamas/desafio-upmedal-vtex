@@ -1,0 +1,63 @@
+/* .sticky-header{
+    background-color: #000;
+}
+
+
+.flex.flex-grow-1 {
+    background-color: #000;
+}
+
+.flex-layout.row--desktop{
+    background-color: #000;
+} */
+
+
+.searchBarContainer {
+    width: 770px;
+    position: center;
+    color: #fff;
+}
+
+
+
+.imageElement {
+    width: 90%;
+    cursor: pointer;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    border-radius: 60px;
+    flex-direction: row;
+    transition: all 0s ease 0s;
+    direction: ltr;
+    display: flex;
+    will-change: transform;
+    transform: translate(0%, 0px);
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #000;
+}
+
+/* .bg-base {
+    background-color: #000;
+}
+
+.body.bg-base {
+    background-color: #000;
+} */
+/* 
+.vtex-store__template {
+    background-color: #000;
+}
+.logoLink {
+    background-color: #000;
+}
+.render-provider {
+    background-color: #000;
+}
+.vtex-sticky-layout-0-x-wrapper--sticky-header {
+    background-color: #000;
+    color: #fff;
+} */
+
+/* "base": "#3f3f40", */
