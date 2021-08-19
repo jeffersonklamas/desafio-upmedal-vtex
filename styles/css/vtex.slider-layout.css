@@ -1,0 +1,17 @@
+
+/* .imageElement {
+    width: 90%;
+    cursor: pointer;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    border-radius: 60px;
+    flex-direction: row;
+    transition: all 0s ease 0s;
+    direction: ltr;
+    display: flex;
+    will-change: transform;
+    transform: translate(0%, 0px);
+    margin-left: auto;
+    margin-right: auto;
+} */
