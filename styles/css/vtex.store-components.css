@@ -1,7 +1,6 @@
 
 .searchBarContainer {
-    width: 770px;
-    position: center;
+    width: 550px;
     color: #fff;
 }
 
@@ -19,3 +18,14 @@
     border-radius: 50px;
     margin: 80px;
 }
+
+/* .logoLink {
+    width: 50%;
+    height: 300px;
+    width: auto;
+    height: auto;
+} */
+
+/* .logoImage {
+    width: 150px;
+} */

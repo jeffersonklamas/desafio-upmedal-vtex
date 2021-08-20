@@ -48,9 +48,9 @@
     "props": {
       "title": "Logo",
       "href": "/",
-      "url": "https://maratonavirtual.s3.sa-east-1.amazonaws.com/upmedal.png",
-      "width": "30%",
-      "maxWidth": "150px"
+      "url": "assets/upmedalLogo.png",
+      "width": "150px"
+      // "maxWidth": "150px"
     }
   },
   "header-layout.mobile": {
